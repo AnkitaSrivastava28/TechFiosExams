@@ -1,0 +1,2 @@
+module Practical2 {
+}
